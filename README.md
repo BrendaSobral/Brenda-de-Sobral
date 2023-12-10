@@ -9,6 +9,7 @@ Linguagens de Programação: C, C#, Python.
 Banco de Dados: MySQL, MongoDB.
 Desenvolvimento Web: Django, HTML, CSS.
 Controle de Versão: Git e GitHub.
+
 🤖 Foco em QA
 Atualmente, estou aprofundando meus conhecimentos em Testes Automatizados, utilizando ferramentas como Selenium e JUnit. Tenho familiaridade com o Tello em Ferramentas de Automação e estou iniciando meu aprendizado no Jira. Minha experiência com Metodologias Ágeis, especialmente Kanban e Scrum, motiva meu interesse crescente na área de QA.
 
@@ -18,6 +19,7 @@ Estou aberta a colaborações e sugestões! Se você tem ideias interessantes ou
 📫 Contato
 LinkedIn: linkedin.com/in/brenda-sobral-jesus-579515199
 E-mail: brendasobraljesus3@gmail.com
+
 🎯 Objetivos
 Estou em busca de oportunidades para ampliar meu conhecimento, colaborar em projetos desafiadores e buscar oportunidades profissionais na área de QA.
 
