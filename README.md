@@ -1,4 +1,4 @@
-Perfil GitHub de Brenda de Sobral Jesus
+Brenda de Sobral Jesus
 Seja bem-vindo ao meu perfil do GitHub! 👋
 
 Sobre Mim
